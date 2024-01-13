@@ -5,7 +5,7 @@ const projeler = [
     baslik: "Şükran Mahallesi 4 Adet Tescilli Taşınmazın Rekonstrüksiyon İkmal İnşaat İşi",
     aciklama: "Şükran Mahallesi 2 Adet Tescilli Taşınmazın Rekonstrüksiyon İkmal İnşaatı'nın Yapımı",
     resimler: [
-      "https:www.meram.bel.tr/upload/medya/012323.jpg",
+      "https://www.meram.bel.tr/upload/medya/012323.jpg",
       "https://www.meram.bel.tr/upload/medya/002_2.jpg" // Birden fazla resim
     ],
   },
